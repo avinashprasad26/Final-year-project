@@ -1,0 +1,4 @@
+section {
+    background: linear-gradient(to right, transparent 50%, #fff 50%), url("img1.jpeg") no-repeat center;
+    background-size: cover;
+}
